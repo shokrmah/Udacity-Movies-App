@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Android\Projects\MoviesApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="G:\Android\Projects\MoviesApp\app\build\intermediates\pre-dexed\debug\classes-b9c17eeda1ed1b0708370b63f76143ac63ec2034.jar" />
+    </item>
+    <item
+        jar="G:\Android\Projects\MoviesApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="G:\Android\Projects\MoviesApp\app\build\intermediates\pre-dexed\debug\classes-00351e53968ef755006ec7e90ef1b6ce1051b33e.jar" />
+    </item>
+    <item
+        jar="G:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="G:\Android\Projects\MoviesApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-4c5dec1cee5b46114f4e3d578f1a260157579f04.jar" />
+    </item>
+    <item
+        jar="G:\Android\Projects\MoviesApp\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\Android\Projects\MoviesApp\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-765b873ee9858114a0dd7c952cac98582e7a2a01.jar" />
+    </item>
+    <item
+        jar="G:\Android\Projects\MoviesApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="G:\Android\Projects\MoviesApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-801e3f45151cbd332b0af350ea92ddc2129588d0.jar" />
+    </item>
+
+</items>

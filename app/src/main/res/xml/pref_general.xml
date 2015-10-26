@@ -1,0 +1,18 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:title="@string/sorting"
+        android:key="@string/sorting_key"
+        android:defaultValue="@string/sorting_default"
+        android:entries="@array/sorting_list"
+        android:entryValues="@array/sorting_list_values"
+        />
+    <EditTextPreference
+        android:title="@string/last_upadte"
+        android:key="@string/last_update_key"
+        android:defaultValue="@string/last_update_default"
+        android:editable="false"
+        />
+
+
+</PreferenceScreen>
